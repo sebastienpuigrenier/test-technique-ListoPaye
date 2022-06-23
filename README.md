@@ -56,7 +56,7 @@ $ git clone https://github.com/sebastienpuigrenier/test-technique-ListoPaye.git
 $ cd test-technique-ListoPaye
 $ npm install
 ```
-### Lancement des tests unitaire
+### Lancement des tests unitaires
 
 ```sh
 $ npm test
