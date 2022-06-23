@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 
 
-> Création d'un ensemble de fonction et de test unitaire suite à un premier entretien
+> Création d'un ensemble de fonctions et de tests unitaires suite à un premier entretien
 
 ![example](https://listopaye.fr/wp-content/uploads/2020/01/logo-listopaye-50.png)
 
